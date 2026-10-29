@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+._*
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and runtime files
+*.log
+*.pid
+*.tmp
+tmp/
+
+# Test and coverage output
+coverage/
+.phpunit.cache/
+
+# Archives and presentation exports
+*.zip
+*.tar
+*.tar.gz
+*.key
+*.mov
