@@ -1,0 +1,27 @@
+# Operating-system and editor files
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+nginx/certs/*.crt
+nginx/certs/*.key
+
+# Generated output
+*.log
+*.pid
+*.tmp
+tmp/
+
+# Archives and media exports
+*.zip
+*.tar
+*.tar.gz
+*.mov

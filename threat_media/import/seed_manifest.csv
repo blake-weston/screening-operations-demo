@@ -1,0 +1,10 @@
+event_id,threat_category,source_filename
+1,firearm,B0042_0001.png
+2,knife,B0080_0060.png
+3,knife,B0008_0001.png
+4,hammer,B0003_0001.png
+5,wrench,B0002_0001.png
+6,pliers,B0006_0001.png
+7,scissors,B0081_0060.png
+8,knife,B0005_0001.png
+9,pliers,B0006_0001.png
